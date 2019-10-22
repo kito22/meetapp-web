@@ -1,4 +1,4 @@
-# Meetup Web
+# MeetApp Web
 
 O Meetapp é um app agregador de eventos para desenvolvedores (um acrônimo à Meetup + App), em que permite a criação e divulgação de eventos.
 
